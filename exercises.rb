@@ -27,6 +27,9 @@ else
 	p "no proper value"
 end
 
+times15(4)
+times15(18)
+
 # Performs a mathematical operation using four integer and/or float arguments
 
 
