@@ -29,6 +29,7 @@ end
 
 times15(4)
 times15(18)
+times15(9)
 
 # Performs a mathematical operation using four integer and/or float arguments
 
